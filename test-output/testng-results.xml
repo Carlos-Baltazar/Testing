@@ -26,7 +26,7 @@
       <![CDATA[Status for Post: 201]]>
     </line>
     <line>
-      <![CDATA[Body for Post: {"name":"morpheus","job":"leader","id":"959","createdAt":"2022-12-05T20:58:37.160Z"}]]>
+      <![CDATA[Body for Post: {"name":"morpheus","job":"leader","id":"704","createdAt":"2022-12-12T18:42:01.715Z"}]]>
     </line>
     <line>
       <![CDATA[Type of post: Post for unsucessful Login]]>
@@ -80,19 +80,19 @@
       <![CDATA[Status for Post: 200]]>
     </line>
     <line>
-      <![CDATA[Body for Post: {"name":"morpheus","job":"zion resident","updatedAt":"2022-12-05T20:58:39.630Z"}]]>
+      <![CDATA[Body for Post: {"name":"morpheus","job":"zion resident","updatedAt":"2022-12-12T18:42:04.008Z"}]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-12-05T14:58:34 CST" name="Default suite" finished-at="2022-12-05T14:58:39 CST" duration-ms="5542">
+  <suite started-at="2022-12-12T12:41:58 CST" name="Default suite" finished-at="2022-12-12T12:42:04 CST" duration-ms="5892">
     <groups>
     </groups>
-    <test started-at="2022-12-05T14:58:34 CST" name="Default test" finished-at="2022-12-05T14:58:39 CST" duration-ms="5542">
+    <test started-at="2022-12-12T12:41:58 CST" name="Default test" finished-at="2022-12-12T12:42:04 CST" duration-ms="5892">
       <class name="com.unosquare.FinalPulls">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.unosquare.FinalPulls@69e1dd28]" started-at="2022-12-05T14:58:34 CST" name="beforeMethod" finished-at="2022-12-05T14:58:34 CST" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.unosquare.FinalPulls@69e1dd28]" started-at="2022-12-12T12:41:58 CST" name="beforeMethod" finished-at="2022-12-12T12:41:58 CST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="f()[pri:0, instance:com.unosquare.FinalPulls@69e1dd28]" started-at="2022-12-05T14:58:34 CST" name="f" finished-at="2022-12-05T14:58:39 CST" duration-ms="5495" status="PASS">
+        <test-method signature="f()[pri:0, instance:com.unosquare.FinalPulls@69e1dd28]" started-at="2022-12-12T12:41:58 CST" name="f" finished-at="2022-12-12T12:42:04 CST" duration-ms="5837" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Type of post:  Post for successful register]]>
@@ -119,7 +119,7 @@
               <![CDATA[Status for Post: 201]]>
             </line>
             <line>
-              <![CDATA[Body for Post: {"name":"morpheus","job":"leader","id":"959","createdAt":"2022-12-05T20:58:37.160Z"}]]>
+              <![CDATA[Body for Post: {"name":"morpheus","job":"leader","id":"704","createdAt":"2022-12-12T18:42:01.715Z"}]]>
             </line>
             <line>
               <![CDATA[Type of post: Post for unsucessful Login]]>
@@ -173,7 +173,7 @@
               <![CDATA[Status for Post: 200]]>
             </line>
             <line>
-              <![CDATA[Body for Post: {"name":"morpheus","job":"zion resident","updatedAt":"2022-12-05T20:58:39.630Z"}]]>
+              <![CDATA[Body for Post: {"name":"morpheus","job":"zion resident","updatedAt":"2022-12-12T18:42:04.008Z"}]]>
             </line>
           </reporter-output>
         </test-method> <!-- f -->
